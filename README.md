@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Laxman sirvi</h1>
-<h3 align="center">A passionate Machine leaning engineer from India</h3>
+<h3 align="center">A passionate MERN stack developerfrom India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxmansirvi7&label=Profile%20views&color=0e75b6&style=flat" alt="laxmansirvi7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@laxmansirvii" target="blank"><img src="https://img.shields.io/twitter/follow/@laxmansirvii?logo=twitter&style=for-the-badge" alt="@laxmansirvii" /></a> </p>
 
-- 🔭 I’m currently working on **Machine learning projects**
+- 🔭 I’m currently working on **Social media Application projects**
 
-- 📫 How to reach me **laxmansirvi203gmail.com**
+- 📫 How to reach me **laxmansirvi0399gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
